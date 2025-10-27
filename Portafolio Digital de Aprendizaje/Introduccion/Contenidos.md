@@ -4,7 +4,7 @@
 
 ### 🧠 Unidad1: Fundamentos de Algoritmos y Programas
 * Conceptos fundamentales, Elementos Bassicos y Herramientas de programacion.
-[Unidad1](../Unidad1/Unidad1.md)
+[Unidad1](../Unidad1)
 
 ### 🔄 Unidad2: Estructuras Algorítmicas de Control
 *   Estructuras algoritmicas condicionalesy repetitivas 
