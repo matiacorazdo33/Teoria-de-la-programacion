@@ -8,9 +8,9 @@
 ### [📚 Contenidos de la Unidad 1]
 
 - [Algoritmos, pseudocódigo y diagrama de flujo](../Unidad1/Contenidos-de-la-unidad/Algoritmos-pseudocodigo-diagrama-de-flujo.md)
-- [Programación por bloques](#programacion-por-bloques.md)
-- [Ejemplos de algoritmos con estructuras lineales/secuenciales](#ejemplos-de-algoritmos-con-estructuras-lineales-secuenciales)
-- [Principales dificultades en la aplicación de los contenidos](#principales-dificultades-en-la-aplicacion-de-los-contenidos)
+- [Programación por bloques](../Unidad1/Contenidos-de-la-unidad/Programacion-por-bloques.md)
+- [Ejemplos de algoritmos con estructuras lineales/secuenciales](../Unidad1/Contenidos-de-la-unidad/Ejemplos-de-algoritmos-con-estructuras-lineales.md)
+- [Principales dificultades en la aplicación de los contenidos](../Unidad1/Contenidos-de-la-unidad/Principales-dificultades-en-la-aplicacion-de-los-contenidos.md)
 - [Reflexión crítica de los aprendizajes de la unidad](#reflexion-critica-de-los-aprendizajes-de-la-unidad)
 
 
