@@ -14,6 +14,11 @@
 - [Reflexión crítica de los aprendizajes de la unidad](#reflexion-critica-de-los-aprendizajes-de-la-unidad)
 
 ### 📝 Tareas Entregadas
+- [Herramientas de algoritmos (pseudocódigo y diagramas de flujo).](../Unidad1/Tareas-entregadas/Herramientas-de-algoritmos(pseudocodigo-y-diagramas-de-flujo).md)
+- [Instalación de lenguajes deprogramación (C, Python o Java).](../Unidad1/Contenidos-de-la-unidad/Programacion-por-bloques.md)
+- [Ejemplos de algoritmos con estructuras lineales/secuenciales](../Unidad1/Contenidos-de-la-unidad/Ejemplos-de-algoritmos-con-estructuras-lineales.md)
+- [Principales dificultades en la aplicación de los contenidos](../Unidad1/Contenidos-de-la-unidad/Principales-dificultades-en-la-aplicacion-de-los-contenidos.md)
+- [Reflexión crítica de los aprendizajes de la unidad](#reflexion-critica-de-los-aprendizajes-de-la-unidad)
 
 
 
