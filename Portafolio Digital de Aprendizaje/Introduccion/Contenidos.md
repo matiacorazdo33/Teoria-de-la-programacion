@@ -6,11 +6,19 @@
 * Conceptos fundamentales, Elementos Básicos y Herramientas de programación.
 
 ### 📚 Contenidos de la Unidad 1
-- [Algoritmos, pseudocódigo y diagrama de flujo](../Contenidos%20de%20la%20Unidad/Algoritmos,%20pseudocódigo,diagrama%20de%20flujo.md)
+- [Algoritmos, pseudocódigo y diagrama de flujo](Algoritmos,%20pseudocódigo,diagrama%20de%20flujo.md)
 - [Programación por bloques](#programacion-por-bloques.md)
 - [Ejemplos de algoritmos con estructuras lineales/secuenciales](#ejemplos-de-algoritmos-con-estructuras-lineales-secuenciales)
 - [Principales dificultades en la aplicación de los contenidos](#principales-dificultades-en-la-aplicacion-de-los-contenidos)
 - [Reflexión crítica de los aprendizajes de la unidad](#reflexion-critica-de-los-aprendizajes-de-la-unidad)
+
+- ### Contenidos de la Unidad 1
+- [Algoritmos, pseudocódigo y diagrama de flujo](Algoritmos.md#algoritmos-pseudocodigo-y-diagrama-de-flujo)
+- [Programación por bloques](ProgramacionBloques.md#programacion-por-bloques)
+- [Ejemplos de algoritmos con estructuras lineales/secuenciales](EjemplosAlgoritmos.md#ejemplos-de-algoritmos-con-estructuras-lineales-secuenciales)
+- [Principales dificultades en la aplicación de los contenidos](Dificultades.md#principales-dificultades-en-la-aplicacion-de-los-contenidos)
+- [Reflexión crítica de los aprendizajes de la unidad](Reflexion.md#reflexion-critica-de-los-aprendizajes-de-la-unidad)
+
 
 
 ### 🔄 Unidad2: Estructuras Algorítmicas de Control
