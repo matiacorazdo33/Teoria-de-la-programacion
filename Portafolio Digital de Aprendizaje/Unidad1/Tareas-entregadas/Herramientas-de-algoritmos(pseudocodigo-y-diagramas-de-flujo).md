@@ -7,4 +7,9 @@ La actividad consistió en explorar y aplicar herramientas digitales para la cre
 
 ---
 
+
+📝**Link a la tarea:**
+https://drive.google.com/file/d/1sjL1LdTCXFt52AEakhauyuQR6qnxXnwX/view?usp=drive_link
+
+---
 [⬅️ Volver a Contenidos de la Unidad](../../Introduccion/Contenidos.md)
