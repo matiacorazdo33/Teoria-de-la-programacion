@@ -9,12 +9,16 @@ Este tipo de estructura es ideal para resolver problemas donde el proceso no req
 
 ---
 
-📋 **Ejemplo:**  
+📋 **Ejemplos:**  
 Un algoritmo que determina la **aceleración de un cuerpo** utilizando su velocidad inicial, velocidad final y el tiempo transcurrido.  
 
 <img width="952" height="909" alt="image" src="https://github.com/user-attachments/assets/5ae2f2cd-5f49-4c25-b187-878ac540f0f0" />
 
 ---
+
+Un algoritmo que calcula la **distancia entre dos puntos** haciendo uso de sus coordenadas.
+<img width="1231" height="965" alt="image" src="https://github.com/user-attachments/assets/8d1a639c-880f-47df-9fe5-38c349688441" />
+
 
 [⬅️ Volver a Contenidos de la Unidad](../../Introduccion/Contenidos.md)
 
