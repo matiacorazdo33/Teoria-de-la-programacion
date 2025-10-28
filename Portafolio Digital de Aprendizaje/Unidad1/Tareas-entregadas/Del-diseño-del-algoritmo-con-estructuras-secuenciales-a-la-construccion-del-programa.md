@@ -1,4 +1,4 @@
-# 🚀 Del diseño del algoritmo conestructuras secuenciales a laconstrucción del programa 
+# 🚀 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa 
 
 ---
 
