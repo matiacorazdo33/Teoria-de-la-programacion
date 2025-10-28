@@ -1,4 +1,4 @@
-# 🧩 Instalación de lenguajes de programación (C, Phyton o Java)  
+# 💻 Instalación de lenguajes de programación (C, Phyton o Java)  
 
 ---
 
