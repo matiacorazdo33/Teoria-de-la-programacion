@@ -3,7 +3,7 @@
 ---
 
 📋 **Descripción de la tarea:**  
-La actividad consistió en explorar y aplicar herramientas digitales para la creación de algoritmos en **pseudocódigo y diagramas de flujo**, con el objetivo de fortalecer la comprensión de la lógica de programación. Para ello, se seleccionó la herramienta **PSeInt**, empleada para diseñar y representar un algoritmo mediante ambas formas de representación, analizando su funcionamiento y utilidad en el aprendizaje.
+La actividad tuvo como propósito aplicar estructuras secuenciales en el diseño de un algoritmo para resolver un problema específico, y luego transformarlo en un programa utilizando el lenguaje C. Para su desarrollo, se empleó **PSeInt** como herramienta principal para crear el algoritmo, el cual posteriormente fue implementado en C con el apoyo del entorno **Visual Studio**.
 
 ---
 
