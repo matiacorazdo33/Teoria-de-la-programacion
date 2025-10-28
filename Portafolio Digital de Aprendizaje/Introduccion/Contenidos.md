@@ -5,7 +5,8 @@
 ### [🧠 Unidad1:](../Unidad1) Fundamentos de Algoritmos y Programas
 * Conceptos fundamentales, Elementos Básicos y Herramientas de programación.
 
-### [📚 Contenidos de la Unidad 1](..Unidad1/Contenidos%20de%20la%20Unidad)
+### [📚 Contenidos de la Unidad 1](../Unidad1/Contenidos%20de%20la%20Unidad/Algoritmos,pseudocodigo,diagrama%20de%20flujo.md)
+
 - [Algoritmos, pseudocódigo y diagrama de flujo](#Algoritmos-pseudocódigo-diagrama de flujo.md)
 - [Programación por bloques](#programacion-por-bloques.md)
 - [Ejemplos de algoritmos con estructuras lineales/secuenciales](#ejemplos-de-algoritmos-con-estructuras-lineales-secuenciales)
