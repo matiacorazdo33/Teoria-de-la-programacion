@@ -13,6 +13,8 @@
 - [Principales dificultades en la aplicación de los contenidos](#principales-dificultades-en-la-aplicacion-de-los-contenidos)
 - [Reflexión crítica de los aprendizajes de la unidad](#reflexion-critica-de-los-aprendizajes-de-la-unidad)
 
+[Ir a Algoritmos, pseudocódigo y diagrama de flujo](../Unidad1/Contenidos-de-la-unidad/Algoritmos-pseudocodigo-diagrama-de-flujo.md)
+
 
 
 ### 🔄 Unidad2: Estructuras Algorítmicas de Control
