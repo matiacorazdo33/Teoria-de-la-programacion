@@ -1,6 +1,8 @@
 # 💻 Teoria de la Programacion
+---
 
 ## 📚 Portafolio Digital de Aprendizaje
+---
 
 ### [🧠 Unidad1:](../Unidad1) Fundamentos de Algoritmos y Programas
 * Conceptos fundamentales, Elementos Básicos y Herramientas de programación.
@@ -19,17 +21,20 @@
 - [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](https://drive.google.com/file/d/1aj_NMdGEL0P8htffoL4y_JkhmwHxKd4N/view?usp=sharing)
 - [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](https://drive.google.com/file/d/1VWNXRcWPszmpdcCuWPwyLMrzieFipY4e/view?usp=sharing)
 
-
+---
 
 
 ### 🔄 Unidad2: Estructuras Algorítmicas de Control
 *   Estructuras algoritmicas condicionalesy repetitivas 
+---
 
 ### 🏗️ Unidad3: Programación Modular y Estructuras de Datos Estáticas
 * Programación Modular y Estructuras de Datos Estáticas Básicas 
+---
 
 ### 💡 Conclusiones
 * Síntesis del aprendizaje adquirido 
+---
 
 ### 📖 Referencias
 * [1]	C. González Hijón, R. Hijón Neira, y U. Rey Juan Carlos Móstoles, «Propuesta didáctica para el desarrollo del Pensamiento Computacional mediante la programación visual por bloques.», 2024, Disponible en: http://dspace.unach.edu.ec/handle/51000/12692
@@ -41,6 +46,7 @@
 * [7] Figueroa Piscoya, E.N., Maldonado Ramirez, I., y Santa Cruz Acosta, R.C. (2021). Fundamentos de programación, Un enfoque práctico. Biblioteca
 Nacional del Perú. Disponible en:
 https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico
+---
 
 ### 🤖 Uso de IA Cooperativa
 * Se hizo uso de ChatGPT para mejorar la redacción y organización de las diferentes secciones del portafolio.
