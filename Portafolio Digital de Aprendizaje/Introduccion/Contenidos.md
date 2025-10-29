@@ -43,9 +43,7 @@
 * [4]	F. Tejera-Martínez, … D. A.-R., y  undefined 2020, «Lenguajes de programación y desarrollo de competencias clave. Revisión sistemática», scielo.org.mx, doi: 10.24320/redie.2020.22.e27.2869. Disponible en: https://www.scielo.org.mx/scielo.php?pid=S1607-40412020000100127&script=sci_arttext
 * [5]	M. Xavier et al., «Una indagación sobre el comportamiento de lenguajes de programación sencillos basados en bloques», dialnet.unirioja.es, doi: 10.15517/eci.v13i2.54814. Disponible en: https://dialnet.unirioja.es/servlet/articulo?codigo=8247798
 * [6]	F. Yaneth, P. M. Carlos, I. Torres, L. Piedad, y C. Sosa, «Elaboración de diagramas de flujo básicos», 2023, doi: 10.16925/gcgp.82. Disponible en: https://repository.ucc.edu.co/items/2172ade4-eaff-4934-bc18-7d3625d8ce6f
-* [7] Figueroa Piscoya, E.N., Maldonado Ramirez, I., y Santa Cruz Acosta, R.C. (2021). Fundamentos de programación, Un enfoque práctico. Biblioteca
-Nacional del Perú. Disponible en:
-https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico
+
 ---
 
 ### 🤖 Uso de IA Cooperativa
