@@ -13,7 +13,8 @@ Todo algoritmo cuenta con tres elementos esenciales:
 - **Salidas:** los resultados o soluciones obtenidas.  
 
 📋 **Ejemplo:**  
->En el siguiente ejemplo se puede observar un algoritmo escrito a modo de solución para encontrar en área de un triángulo.
+>En el siguiente ejemplo se puede observar un algoritmo escrito a modo de solución para encontrar en área de un triángulo, con datos que el propio usuario debe asignar.
+
 <img width="831" height="644" alt="image" src="https://github.com/user-attachments/assets/69e08980-1946-4e64-88ba-d1ba53637b6e" />
 
 
@@ -23,7 +24,8 @@ Todo algoritmo cuenta con tres elementos esenciales:
 
 El **pseudocódigo** es una herramienta utilizada para expresar de manera clara y estructurada los pasos de un algoritmo, sin emplear aun un lenguaje de programación formal.  
 Sirve como puente entre el lenguaje natural y los lenguajes de programación, ya que permite escribir instrucciones de forma comprensible, pero siguiendo una lógica cercana a la que se usa al programar.  
-Su objetivo es ayudar a planificar la solución antes de escribir el código real, facilitando la comprensión del proceso.  
+Su objetivo es ayudar a planificar la solución antes de escribir el código real, facilitando la comprensión del proceso. 
+Entre las herramientas para programar en pseudocódigo encontramos a **PSeInt**, el cual es un instrumento de software orientada a ayudar a quienes están dando sus primeros pasos en lo que se refiere a la programación. Su principal atractivo es la ventaja que representa a aquellos que están iniciando en su aprendizaje de la programación, dicha ventaja es gracias a que utiliza un lenguaje en pseudocódigo bastante simple y en español, lo que facilita al usuario comprender la lógica detrás de la elaboración de algoritmos.
 
 📋 **Ejemplo:**  
 >A continuación se observa el mismo algoritmo antes mencionado, sin embargo esta vez esta escrito en pseudocódigo en la plataforma ´PseInt, contando con las palabras clave e instrucciones apropiadas para hayar la solución al mismo problema.
