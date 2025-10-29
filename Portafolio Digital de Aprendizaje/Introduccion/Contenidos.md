@@ -16,7 +16,7 @@
 ### 📝 Tareas Entregadas
 - [Herramientas de algoritmos (pseudocódigo y diagramas de flujo).](../Unidad1/Tareas-entregadas/Herramientas-de-algoritmos(pseudocodigo-y-diagramas-de-flujo).md)
 - [Instalación de lenguajes deprogramación (C, Python o Java).](../Unidad1/Tareas-entregadas/Instalacion-de-lenguajes-de-programacion-(C-Python-o-Java).md)
-- [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](../Unidad1/Tareas-entregadas/Primer-acercamiento-a-la-construccion-de-algoritmos-con-estructuras-secuenciales-en-pseudocodigo.md)
+- [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](https://drive.google.com/file/d/1aj_NMdGEL0P8htffoL4y_JkhmwHxKd4N/view?usp=sharing)
 - [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](https://drive.google.com/file/d/1VWNXRcWPszmpdcCuWPwyLMrzieFipY4e/view?usp=sharing)
 
 
