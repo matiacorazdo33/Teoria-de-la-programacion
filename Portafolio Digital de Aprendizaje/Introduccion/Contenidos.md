@@ -14,7 +14,7 @@
 - [Reflexión crítica de los aprendizajes de la unidad](../Unidad1/Contenidos-de-la-unidad/Reflexion-critica-de-los-aprendizajes-de-la-unidad.md)
 
 ### 📝 Tareas Entregadas
-- [Herramientas de algoritmos (pseudocódigo y diagramas de flujo).](../Unidad1/Tareas-entregadas/Herramientas-de-algoritmos(pseudocodigo-y-diagramas-de-flujo).md)
+- [Herramientas de algoritmos (pseudocódigo y diagramas de flujo).](https://drive.google.com/file/d/1sjL1LdTCXFt52AEakhauyuQR6qnxXnwX/view?usp=drive_link)
 - [Instalación de lenguajes deprogramación](https://drive.google.com/file/d/1dkbQGZ1W79-6BM2CxpaS2TY3_36FrwqO/view?usp=drive_link)
 - [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](https://drive.google.com/file/d/1aj_NMdGEL0P8htffoL4y_JkhmwHxKd4N/view?usp=sharing)
 - [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](https://drive.google.com/file/d/1VWNXRcWPszmpdcCuWPwyLMrzieFipY4e/view?usp=sharing)
