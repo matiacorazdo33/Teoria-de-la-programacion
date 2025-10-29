@@ -13,7 +13,7 @@ Todo algoritmo cuenta con tres elementos esenciales:
 - **Salidas:** los resultados o soluciones obtenidas.  
 
 📋 **Ejemplo:**  
-
+>En el siguiente ejemplo se puede observar un algoritmo escrito a modo de solución para encontrar en área de un triángulo.
 <img width="831" height="644" alt="image" src="https://github.com/user-attachments/assets/69e08980-1946-4e64-88ba-d1ba53637b6e" />
 
 
@@ -26,6 +26,7 @@ Sirve como puente entre el lenguaje natural y los lenguajes de programación, ya
 Su objetivo es ayudar a planificar la solución antes de escribir el código real, facilitando la comprensión del proceso.  
 
 📋 **Ejemplo:**  
+>A continuación se observa el mismo algoritmo antes mencionado, sin embargo esta vez esta escrito en pseudocódigo, contando con las palabras clave e instrucciones apropiadas para hayar la solución al mismo problrema.
 
 <img width="684" height="526" alt="image" src="https://github.com/user-attachments/assets/ef2ded6d-6511-42ee-8103-6b861fab3cc0" />
 
