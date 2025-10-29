@@ -36,8 +36,13 @@ Imagen:
 ---
 ## Ventajas de la programación por bloques:
 ✅ Es un metodo de aprendizaje muy eficiente para instruirse la lógica medienate la cual trabaja la programación.
+
 ✅ Desarrolla la creatividad y el pensamiento analítico, muy util en el area de la computación.
+
 ✅ Cuenta con accesibilidad y facilidad de uso al no requerir de conocimientos complejos o avanzados sobre programación.
-✅ 
+
+✅ Al disponer de un modelo interactivo e intuitivo permite al usuario aprender y entender sin precuparse por la sintaxis que muestran los lengujes de programación.
+
+---
 
 [⬅️ Volver a Contenidos de la Unidad](../../Introduccion/Contenidos.md)
