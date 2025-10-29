@@ -21,14 +21,18 @@ Todo algoritmo cuenta con tres elementos esenciales:
 
 ## 💬 Pseudocódigo  
 
-El **pseudocódigo** es una herramienta utilizada para expresar de manera clara y estructurada los pasos de un algoritmo, sin emplear un lenguaje de programación formal.  
+El **pseudocódigo** es una herramienta utilizada para expresar de manera clara y estructurada los pasos de un algoritmo, sin emplear aun un lenguaje de programación formal.  
 Sirve como puente entre el lenguaje natural y los lenguajes de programación, ya que permite escribir instrucciones de forma comprensible, pero siguiendo una lógica cercana a la que se usa al programar.  
 Su objetivo es ayudar a planificar la solución antes de escribir el código real, facilitando la comprensión del proceso.  
 
 📋 **Ejemplo:**  
->A continuación se observa el mismo algoritmo antes mencionado, sin embargo esta vez esta escrito en pseudocódigo, contando con las palabras clave e instrucciones apropiadas para hayar la solución al mismo problema.
+>A continuación se observa el mismo algoritmo antes mencionado, sin embargo esta vez esta escrito en pseudocódigo en la plataforma ´PseInt, contando con las palabras clave e instrucciones apropiadas para hayar la solución al mismo problema.
 
 <img width="684" height="526" alt="image" src="https://github.com/user-attachments/assets/ef2ded6d-6511-42ee-8103-6b861fab3cc0" />
+
+
+>Una vez ejecutado el programa, se abrirá una ventana la cual llevará a cabo las funciones para las que hayamos programado el algorítmo.
+<img width="564" height="373" alt="image" src="https://github.com/user-attachments/assets/fbb06818-4eb5-4904-a579-e98c064fc533" />
 
 ---
 
@@ -37,6 +41,11 @@ Su objetivo es ayudar a planificar la solución antes de escribir el código rea
 El **diagrama de flujo** es una representación gráfica del algoritmo, donde cada acción o decisión se muestra mediante símbolos conectados por flechas que indican el orden de ejecución.  
 Esta herramienta es fundamental en la etapa de diseño, ya que permite visualizar cómo fluye la información y cómo se ejecutan las instrucciones paso a paso.  
 Junto con el pseudocódigo, facilita la comprensión del funcionamiento lógico de un programa antes de implementarlo en código.  
+
+Imagen: Simbolos de un diagrama de flujo
+
+<img width="482" height="454" alt="image" src="https://github.com/user-attachments/assets/2a0f6af1-1223-4d1e-93a8-60c5d18213bc" />
+
 
 📋 **Ejemplo:**  
 
