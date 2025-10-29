@@ -10,12 +10,16 @@ Todo algoritmo cuenta con tres elementos esenciales:
 
 - **Entradas:** los datos o información inicial necesarios.  
 - **Proceso:** las operaciones o transformaciones que se aplican.  
-- **Salidas:** los resultados o soluciones obtenidas.  
+- **Salidas:** los resultados o soluciones obtenidas.
+    
+
+
 
 📋 **Ejemplo:**  
 >En el siguiente ejemplo se puede observar un algoritmo escrito a modo de solución para encontrar en área de un triángulo, con datos que el propio usuario debe asignar.
 
 imagen 1: Algoritmo "triangulo" en texto.
+
 <img width="831" height="644" alt="image" src="https://github.com/user-attachments/assets/69e08980-1946-4e64-88ba-d1ba53637b6e" />
 
 
@@ -25,19 +29,25 @@ imagen 1: Algoritmo "triangulo" en texto.
 
 El **pseudocódigo** es una herramienta utilizada para expresar de manera clara y estructurada los pasos de un algoritmo, sin emplear aun un lenguaje de programación formal.  
 Sirve como puente entre el lenguaje natural y los lenguajes de programación, ya que permite escribir instrucciones de forma comprensible, pero siguiendo una lógica cercana a la que se usa al programar.  
-Su objetivo es ayudar a planificar la solución antes de escribir el código real, facilitando la comprensión del proceso. 
+Su objetivo es ayudar a planificar la solución antes de escribir el código real, facilitando la comprensión del proceso.
+
 Entre las herramientas para programar en pseudocódigo encontramos a **PSeInt**, el cual es un instrumento de software orientada a ayudar a quienes están dando sus primeros pasos en lo que se refiere a la programación. Su principal atractivo es la ventaja que representa a aquellos que están iniciando en su aprendizaje de la programación, dicha ventaja es gracias a que utiliza un lenguaje en pseudocódigo bastante simple y en español, lo que facilita al usuario comprender la lógica detrás de la elaboración de algoritmos[3].
+
+
+
 
 📋 **Ejemplo:**  
 >A continuación se observa el mismo algoritmo antes mencionado, sin embargo esta vez esta escrito en pseudocódigo en la plataforma ´PseInt, contando con las palabras clave e instrucciones apropiadas para hayar la solución al mismo problema.
 
 Imagen 2: Algoritmo "triangulo" en PseInt.
+
 <img width="684" height="526" alt="image" src="https://github.com/user-attachments/assets/ef2ded6d-6511-42ee-8103-6b861fab3cc0" />
 
 
 >Una vez ejecutado el programa, se abrirá una ventana la cual llevará a cabo las funciones para las que hayamos programado el algorítmo.
 
 Imagen 3: Ejecución del algoritmo "triangulo".
+
 <img width="564" height="373" alt="image" src="https://github.com/user-attachments/assets/fbb06818-4eb5-4904-a579-e98c064fc533" />
 
 ---
@@ -53,8 +63,10 @@ Imagen 4: Simbolos de un diagrama de flujo.
 <img width="482" height="454" alt="image" src="https://github.com/user-attachments/assets/2a0f6af1-1223-4d1e-93a8-60c5d18213bc" />
 
 
+
+
 📋 **Ejemplo:**  
->La siguiente imagen muestra el un ejemplo del mismo algoritmo de los anteriores problemas representado en forma de diagrama de flujo haciendo uso de los simbolos y formas caracteristicas del mismo.
+>La siguiente imagen muestra el un ejemplo del mismo algoritmo de los problemas anteriores, representado en forma de diagrama de flujo haciendo uso de los simbolos y formas caracteristicas del mismo.
 
 imagen 5: Algoritmo "triangulo" en diagrama de flujo
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b15e83c-adac-4b23-af34-cda50605cddf" />
