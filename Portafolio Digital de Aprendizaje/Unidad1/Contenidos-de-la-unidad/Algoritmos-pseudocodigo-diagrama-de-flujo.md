@@ -68,7 +68,7 @@ Imagen 4: Simbolos de un diagrama de flujo.
 📋 **Ejemplo:**  
 >La siguiente imagen muestra el un ejemplo del mismo algoritmo de los problemas anteriores, representado en forma de diagrama de flujo haciendo uso de los simbolos y formas caracteristicas del mismo.
 
-imagen 5: Algoritmo "triangulo" en diagrama de flujo
+imagen 5: Algoritmo "triangulo" en diagrama de flujo.
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b15e83c-adac-4b23-af34-cda50605cddf" />
 
 ---
@@ -80,6 +80,7 @@ Las pruebas de escritorio componen una perte fundamenteal en la elaboración de 
 📋 **Ejemplo:**  
 >En la siguiente tabla se ejemplifica una prueba de escritorio en forma de tabla, correspondiente al mismo problema planteado por los ejemplos anteiores, verificando la operación con 3 casos diferentes para los datos de entrada.
 
+Tabla 1: Prueba de escritorio del algoritmo "triangulo".
 | **Entrada** |        | **Proceso**     | **Salida** |
 |:------------:|:------:|:----------------|:-----------:|
 | **Base**     | **Altura** | *(base × altura) / 2* | *(Área)* |
