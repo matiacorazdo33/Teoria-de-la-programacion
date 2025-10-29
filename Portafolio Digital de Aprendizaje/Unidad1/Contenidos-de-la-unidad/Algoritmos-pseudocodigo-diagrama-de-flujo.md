@@ -73,5 +73,20 @@ imagen 5: Algoritmo "triangulo" en diagrama de flujo
 
 ---
 
+🧮 **Pruebas de escritorio**
+Las pruebas de escritorio componen una perte fundamenteal en la elaboración de in algoritmo ya que representan la comprobación para determinar si los datos obtenidos son los esperados. Consiste en realizar un seguimiento manual del algoritmo, haciendo uso de lapiz, papel y nuestra mente, simulando los datos de entrada para verificar que el comportamiento del algoritmo es el esperado.
+
+
+📋 **Ejemplo:**  
+>En la siguiente tabla se ejemplifica una prueba de escritorio en forma de tabla, correspondiente al mismo problema planteado por los ejemplos anteiores, verificando la operación con 3 casos diferentes para los datos de entrada.
+
+| **Entrada** |        | **Proceso**     | **Salida** |
+|:------------:|:------:|:----------------|:-----------:|
+| **Base**     | **Altura** | *(base × altura) / 2* | *(Área)* |
+| 10 | 8 | (10 × 8) / 2 | 40 |
+| 3  | 6 | (3 × 6) / 2 | 9 |
+| 22 | 15 | (22 × 15) / 2 | 165 |
+
+
 [⬅️ Volver a Contenidos de la Unidad](../../Introduccion/Contenidos.md)
 
