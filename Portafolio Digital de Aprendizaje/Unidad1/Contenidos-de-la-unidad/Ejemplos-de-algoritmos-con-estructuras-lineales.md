@@ -112,7 +112,9 @@ la aceleracion del cuerpo es:1.000000
 ---
 
 🧮 **Prueba de escritorio**
+La siguiente tabla muestra la prueba de escritorio del algoritmo de cálculo de aceleración, donde se observan los valores de entrada (vi, vf, t), el proceso aplicado (*(a = (vf - vi) / t)*) y los resultados obtenidos (aceleración "a").
 
+Tabla 2: Prueba de escritorio del algoritmo "aceleracion".
 | **Entrada**			     | 						     |  			  | **Proceso**  | **Salida** |
 |----------------------------|---------------------------|----------------|--------------|----------------|
 |**Velocidad inicial (vi)**  | **Velocidad final (vf)**  |**Tiempo (t)**  | *(a = (vf - vi) / t)* |    **(a)**      |
@@ -241,7 +243,24 @@ la distancia entre el punto P1 y el punto P2 es:5.830952
 ---
 
 
+🧮 **Prueba de escritorio**
+La siguiente tabla muestra la prueba de escritorio del algoritmo de cálculo de la distancia entre dos puntos, donde se observan los valores de entrada (x1, y1, x2, y2), el proceso aplicado (*((X2-X1)^2+(Y2-Y1)^2)^ 1⁄2*) y los resultados obtenidos (la distancia entre los puntos "d").
 
+Tabla 2: Prueba de escritorio del algoritmo "distanciaPuntos".
+| **Entrada**			     | 						     |  			  |  			  | **Proceso**  | **Salida** |
+|----------------------------|---------------------------|----------------|----------------|--------------|----------------|
+|**X1**					     | **Y1**  					 | **X2**		  |**Y2**		   | *((X2-X1)^2+(Y2-Y1)^2)^ 1⁄2* |    **(d)**      |
+|                            |                           |  			  |                |              |                |
+| **2**                      | **3**                     |**7**			  | **6**          | ((7 - 2)^2+(6 - 3)^2)^ 1⁄2 | **1** |
+| **1**                      | **5**                     |**8**			  | **7**          | ((8 - 1)^2+(7 - 5)^2)^ 1⁄2 | **0.9** |
+| **6**                      | **4**                     |**10**		  | **9**          | ((8 - 1)^2+(7 - 5)^2)^ 1⁄2 | **0.857142857** |
+
+---
+
+## 📌 Conclusion
+Estos ejercicios permitieron aplicar estructuras secuenciales y reforzar la comprensión del paso de un pseudocódigo a un lenguaje de programación real. Ademas presentaron la oportunidad de aplicar pruebas de escritorio para verificar el correcto funcionamiento del algoritmo y una traducción adecuada del pseudocódigo al lenguaje de programación C.
+
+---
 
 [⬅️ Volver a Contenidos de la Unidad](../../Introduccion/Contenidos.md)
 
