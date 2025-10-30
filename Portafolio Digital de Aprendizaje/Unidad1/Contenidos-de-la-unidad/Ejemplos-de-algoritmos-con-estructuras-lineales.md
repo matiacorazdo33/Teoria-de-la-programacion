@@ -49,7 +49,6 @@ FinAlgoritmo
 
 Antes de que el algoritmo sea ejecutado, el usuario debe ingresar los datos de entrada que el programa solicite. Durante la ejecución el programa calcula de manera automática la aceleración del cuerpo y muestra al usuario el resultado.
 
----
 
 ```
 *** Ejecución Iniciada. ***
@@ -126,9 +125,109 @@ d= ((X2-X1)^2+(Y2-Y1)^2)^ 1⁄2
 
 A continuación se muestra el pseudocódigo desarrollado en PseInt.
 
+```
+Algoritmo distanciaPuntos
+	//Definir variables
+	Definir x1, y1, x2, y2, d Como Real;
+	
+	//Datos de entrada
+	Escribir "Ingrese los valores de las coordenadas del punto P1: ";
+	Escribir "Ingrese el valor de la coordenada x1: ";
+	Leer x1;
+	Escribir "Ingrese el valor de la coordenada y1: ";
+	Leer y1;
+	Escribir "Ingrese los valores de las coordenadas del punto P2: ";
+	Escribir "Ingrese el valor de la coordenada x2: ";
+	Leer x2;
+	Escribir "Ingrese el valor de la coordenada y2: ";
+	Leer y2;
+	
+	//Proceso 
+	d = raiz((x2 - x1)^2 + (y2 - y1)^2)
+	
+	//Salida
+	Escribir "La distancia entre el punto P1 y P2 es: ", d;	
+	
+FinAlgoritmo
+```
+
+---
+
+▶️ **Ejecución del algoritmo en PseInt.**
+Al igual que el algoritmo anterior, el usuario debe ingresar los datos de entrada que el programa solicite y el programa calculara de manera automática la distancia entre los puntos y mostrara al usuario el resultado.
+
+```
+*** Ejecución Iniciada. ***
+Ingrese los valores de las coordenadas del punto P1:
+Ingrese el valor de la coordenada x1:
+> 2
+Ingrese el valor de la coordenada y1:
+> 3
+Ingrese los valores de las coordenadas del punto P2:
+Ingrese el valor de la coordenada x2:
+> 7
+Ingrese el valor de la coordenada y2:
+> 6
+La distancia entre el punto P1 y P2 es: 5.8309518948
+*** Ejecución Finalizada. ***
+```
+
+---
+
+💻 **Traducción al lenguaje C**
+El algoritmo se tradujo al lenguaje de programación C con el uso de Visual Studio Code.
+
+```
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+int main(){
+
+float x1, y1, x2, y2, d;
+
+printf("ingrse el valor de las coordenadas del punto P1:\n");
+printf("ingrse el valor de la coordenada x1:\n");
+scanf("%f", &x1);
+printf("ingrse el valor de la coordenada y1:\n");
+scanf("%f", &y1);
+printf("ingrse el valor de las coordenadas del punto P2:\n");
+printf("ingrse el valor de la coordenada x2:\n");
+scanf("%f", &x2);
+printf("ingrse el valor de la coordenada y2:\n");
+scanf("%f", &y2);
+
+d = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+
+printf("la distancia entre el punto P1 y el punto P2 es:%f \n", d);
+
+return 0;
+
+}
+```
+
+---
+
+▶️ **Ejecución en C**
+En la ejecucion del programa en C se obsrvaron los mismos resultados que en PseInt, variando unicamente en el redondeo del sexto decimal, verificando la correcta traducción del algoritmo.
+
+```
+PS C:\Users\miltonlab\Documents\matias\programasMatias> gcc distanciaPuntos.c -o distanciaPuntos
+PS C:\Users\miltonlab\Documents\matias\programasMatias> .\distanciaPuntos.exe
+ingrse el valor de las coordenadas del punto P1:
+ingrse el valor de la coordenada x1:
+2
+ingrse el valor de la coordenada y1:
+3
+ingrse el valor de las coordenadas del punto P2:
+ingrse el valor de la coordenada x2:
+7
+ingrse el valor de la coordenada y2:
+6
+la distancia entre el punto P1 y el punto P2 es:5.830952
+```
+---
 
 
-<img width="1231" height="965" alt="image" src="https://github.com/user-attachments/assets/8d1a639c-880f-47df-9fe5-38c349688441" />
 
 
 [⬅️ Volver a Contenidos de la Unidad](../../Introduccion/Contenidos.md)
