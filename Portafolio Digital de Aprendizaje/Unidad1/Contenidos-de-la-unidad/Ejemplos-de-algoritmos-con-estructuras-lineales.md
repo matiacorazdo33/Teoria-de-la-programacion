@@ -14,7 +14,7 @@ Un algoritmo que determina la **aceleración de un cuerpo** utilizando su veloci
 
 Se utiliza la fórmula:
 
-a = (vf−vi) / 2
+a = (vf−vi) / t
 
 ---
 ​
@@ -108,6 +108,19 @@ ingrese el valor del tiempo en segundos:
 la aceleracion del cuerpo es:1.000000
 ```
 **NOTA:** Para ejecutar el algoritmo en C, primero se debe guardar el programa (Ctrl + s), despues se debe copilar usando el compilador GCC desde la línea de comandos con el comando "gcc nombre_archivo.c -o nombre_ejecutable". Finalmente se ejecuta el archivo con ayuda del comando "\nombre_archivo.exe".
+
+---
+
+🧮 **Prueba de escritorio**
+
+| **Entrada**			     | 						     |  			  | **Proceso**  | **Salida** |
+|----------------------------|---------------------------|----------------|--------------|----------------|
+|**Velocidad inicial (vi)**  | **Velocidad final (vf)**  |**Tiempo (t)**  | *(a = (vf - vi) / t)* |    **(a)**      |
+|                            |                           |                |              |                |
+| **5**                      | **8**                     | **3**          | a = (8 − 5) / 3 | **1** |
+| **6**                      | **15**                    | **10**         | a = (15 − 6) / 10 | **0.9** |
+| **4**                      | **10**                    | **7**          | a = (10 − 4) / 7 | **0.857142857** |
+
 
 ---
 
