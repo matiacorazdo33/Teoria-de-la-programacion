@@ -18,7 +18,7 @@ Todo algoritmo cuenta con tres elementos esenciales:
 📋 **Ejemplo:**  
 >En el siguiente ejemplo se puede observar un algoritmo escrito a modo de solución para encontrar en área de un triángulo, con datos que el propio usuario debe asignar.
 
-🧮 **Algoritmo para Calcular el Área de un Triángulo**
+📐 **Algoritmo para Calcular el Área de un Triángulo**
 1. Inicio
 2. Definir (o nombrar) tres variables: base, altura y area.
 
