@@ -5,7 +5,7 @@
 ## 🧠 Algoritmos  
 
 Un **algoritmo** es un conjunto de pasos ordenados de forma lógica y finita, diseñados para resolver un problema o cumplir una tarea específica.  
-Cada paso debe estar claramente definido, de modo que, al usar los mismos datos de entrada, siempre se obtengan los mismos resultados.  
+Cada paso debe estar claramente definido, de modo que, al usar los mismos datos de entrada, siempre se obtengan los mismos resultados [1].  
 Todo algoritmo cuenta con tres elementos esenciales:  
 
 - **Entradas:** los datos o información inicial necesarios.  
@@ -56,7 +56,7 @@ Imagen 3: Ejecución del algoritmo "triangulo".
 
 El **diagrama de flujo** es una representación gráfica del algoritmo, donde cada acción o decisión se muestra mediante símbolos conectados por flechas que indican el orden de ejecución.  
 Esta herramienta es fundamental en la etapa de diseño, ya que permite visualizar cómo fluye la información y cómo se ejecutan las instrucciones paso a paso.  
-Junto con el pseudocódigo, facilita la comprensión del funcionamiento lógico de un programa antes de implementarlo en código.  
+Junto con el pseudocódigo, facilita la comprensión del funcionamiento lógico de un programa antes de implementarlo en código [7].  
 
 Imagen 4: Simbolos de un diagrama de flujo.
 
