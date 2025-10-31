@@ -43,10 +43,7 @@
 * [2]	U. Grado, B. En Ciencias, y H. Bch, «Cuaderno de Trabajo de Introducción a la Programación», se.gob.hn, Disponible en: https://se.gob.hn/media/files/modalidad_educativa/documentos/Cuaderno_Trabajo_Introd._Programacion_11_grado.pdf
 * [3] PSeInt, “Caracterıˊsticas,” [En línea]. Disponible en:
 [https://pseint.sourceforge.net/index.php?page=features.php](https://pseint.sourceforge.net/index.php?page=features.php)
-* [4] … L. L.-O.-R. I. y  undefined 2021, «Análisis de entornos de programación para el desarrollo de habilidades del pensamiento computacional y enseñanza de programación a principiantes», search.proquest.com, Disponible en: https://search.proquest.com/openview/7504eba5c6fe8f2ba820160b1fda9a0e/1?pq-origsite=gscholar&cbl=1006393
-* [5]	F. Tejera-Martínez, … D. A.-R., y  undefined 2020, «Lenguajes de programación y desarrollo de competencias clave. Revisión sistemática», scielo.org.mx, doi: 10.24320/redie.2020.22.e27.2869. Disponible en: https://www.scielo.org.mx/scielo.php?pid=S1607-40412020000100127&script=sci_arttext
-* [6]	M. Xavier et al., «Una indagación sobre el comportamiento de lenguajes de programación sencillos basados en bloques», dialnet.unirioja.es, doi: 10.15517/eci.v13i2.54814. Disponible en: https://dialnet.unirioja.es/servlet/articulo?codigo=8247798
-* [7]	F. Yaneth, P. M. Carlos, I. Torres, L. Piedad, y C. Sosa, «Elaboración de diagramas de flujo básicos», 2023, doi: 10.16925/gcgp.82. Disponible en: https://repository.ucc.edu.co/items/2172ade4-eaff-4934-bc18-7d3625d8ce6f
+* [4]	F. Yaneth, P. M. Carlos, I. Torres, L. Piedad, y C. Sosa, «Elaboración de diagramas de flujo básicos», 2023, doi: 10.16925/gcgp.82. Disponible en: https://repository.ucc.edu.co/items/2172ade4-eaff-4934-bc18-7d3625d8ce6f
 
 ---
 
