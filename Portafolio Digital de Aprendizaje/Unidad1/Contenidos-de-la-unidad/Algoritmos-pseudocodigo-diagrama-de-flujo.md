@@ -18,9 +18,31 @@ Todo algoritmo cuenta con tres elementos esenciales:
 📋 **Ejemplo:**  
 >En el siguiente ejemplo se puede observar un algoritmo escrito a modo de solución para encontrar en área de un triángulo, con datos que el propio usuario debe asignar.
 
-imagen 1: Algoritmo "triangulo" en texto.
+🧮 **Algoritmo para Calcular el Área de un Triángulo**
+1. Inicio
+2. Definir (o nombrar) tres variables: base, altura y area.
 
-<img width="831" height="644" alt="image" src="https://github.com/user-attachments/assets/69e08980-1946-4e64-88ba-d1ba53637b6e" />
+//Entrada
+
+3. Solicitar al usuario que ingrese el valor de la base del triángulo.
+
+4. Guardar el valor ingresado en la variable base.
+
+5. Solicitar al usuario que ingrese el valor de la altura del triángulo.
+
+6. Guardar el valor ingresado en la variable altura.
+
+//Proceso
+
+7. Calcular el área multiplicando la base por la altura y luego dividiendo el resultado entre 2.
+
+   area = (base × altura) / 2
+
+//Salida
+
+8. Mostrar el valor calculado de area al usuario, indicando que es el área del triángulo.
+
+9. Fin
 
 
 ---
@@ -39,9 +61,7 @@ Entre las herramientas para programar en pseudocódigo encontramos a **PSeInt**,
 📋 **Ejemplo:**  
 >A continuación se observa el mismo algoritmo antes mencionado, sin embargo esta vez esta escrito en pseudocódigo en la plataforma ´PseInt, contando con las palabras clave e instrucciones apropiadas para hayar la solución al mismo problema.
 
-Imagen 2: Algoritmo "triangulo" en PseInt.
 
-<img width="684" height="526" alt="image" src="https://github.com/user-attachments/assets/ef2ded6d-6511-42ee-8103-6b861fab3cc0" />
 
 
 >Una vez ejecutado el programa, se abrirá una ventana la cual llevará a cabo las funciones para las que hayamos programado el algorítmo.
