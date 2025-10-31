@@ -108,7 +108,7 @@ Imagen 1: Simbolos de un diagrama de flujo.
 📋 **Ejemplo:**  
 >La siguiente imagen muestra el un ejemplo del mismo algoritmo de los problemas anteriores, representado en forma de diagrama de flujo haciendo uso de los simbolos y formas caracteristicas del mismo.
 
-imagen 2: Algoritmo "triangulo" en diagrama de flujo.
+Imagen 2: Algoritmo "triangulo" en diagrama de flujo.
 
 <img width="488" height="915" alt="image" src="https://github.com/user-attachments/assets/62a8616d-9fad-41be-b6c5-6950231a1548" />
 
