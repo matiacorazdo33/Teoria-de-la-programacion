@@ -56,7 +56,7 @@ Imagen 3: Ejecución del algoritmo "triangulo".
 
 El **diagrama de flujo** es una representación gráfica del algoritmo, donde cada acción o decisión se muestra mediante símbolos conectados por flechas que indican el orden de ejecución.  
 Esta herramienta es fundamental en la etapa de diseño, ya que permite visualizar cómo fluye la información y cómo se ejecutan las instrucciones paso a paso.  
-Junto con el pseudocódigo, facilita la comprensión del funcionamiento lógico de un programa antes de implementarlo en código [7].  
+Junto con el pseudocódigo, facilita la comprensión del funcionamiento lógico de un programa antes de implementarlo en código [4].  
 
 Imagen 4: Simbolos de un diagrama de flujo.
 
