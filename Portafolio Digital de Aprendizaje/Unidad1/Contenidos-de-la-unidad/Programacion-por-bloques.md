@@ -15,14 +15,14 @@ A continuación se detalla un ejemplo en cada una de las plataformas antes menci
 📋 **Ejemplo 1:**
 >El presente ejemplo muestra un algoritmo con bloques programado en **Pilas Bloques** el cual consiste en hacer que el capibara se desplace tres pasos a la derecha y suba al ave sobre su cabeza.
 
-Imagen : 
+Imagen 3: Algoritmo en Pilas Bloques.
 <img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/4d0244b1-d716-4f7a-afca-a36cc0ad4c4c" />
 
 ---
 📋 **Ejemplo 2:**
 >El siguiente ejemplo se observa un algoritmo elaborado en **Blockly games** en el cual se busca que la persona de la imagen llegue al punto marcado a traves de la elaboración de un algoritmo organizadno los bloques a modo de programa.
 
-Imagen:
+Imagen 4: Algoritmo en Blocyk Games.
 <img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/52b5222e-28d5-4f23-bf00-914bb8b21b17" />
 
 ---
@@ -30,7 +30,7 @@ Imagen:
 📋 **Ejemplo 3:**
 >El siguiente ejemplo muestra un programa elaborado en **Scratch** el cual al ejecutarse hace que el gato se mueva hacia las coordenadas en las que se encuentra el plato de comida.
 
-Imagen:
+Imagen 5: Algoritmo en Scratch.
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/504b0473-6549-4ba7-9b33-47c7456b4406" />
 
 ---
