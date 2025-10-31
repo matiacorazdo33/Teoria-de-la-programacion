@@ -246,7 +246,7 @@ la distancia entre el punto P1 y el punto P2 es:5.830952
 🧮 **Prueba de escritorio**
 La siguiente tabla muestra la prueba de escritorio del algoritmo de cálculo de la distancia entre dos puntos, donde se observan los valores de entrada (x1, y1, x2, y2), el proceso aplicado (*((X2-X1)^2+(Y2-Y1)^2)^ 1⁄2*) y los resultados obtenidos (la distancia entre los puntos "d").
 
-Tabla 2: Prueba de escritorio del algoritmo "distanciaPuntos".
+Tabla 3: Prueba de escritorio del algoritmo "distanciaPuntos".
 | **Entrada**			     | 						     |  			  |  			  | **Proceso**  | **Salida** |
 |----------------------------|---------------------------|----------------|----------------|--------------|----------------|
 |**X1**					     | **Y1**  					 | **X2**		  |**Y2**		   | *((X2-X1)^2+(Y2-Y1)^2)^ 1⁄2* |    **(d)**      |
