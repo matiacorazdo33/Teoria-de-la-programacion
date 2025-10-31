@@ -4,7 +4,7 @@
 
 Un **algoritmo secuencial o lineal** se distingue porque todas sus instrucciones se ejecutan una tras otra, siguiendo un **orden continuo y sin saltos lógicos**.  
 En este tipo de estructura, cada paso depende del anterior y conduce directamente al siguiente, formando un flujo simple y directo.  
-Los algoritmos lineales emplean las operaciones básicas de control secuencial, como la **asignación de valores**, la **lectura de datos de entrada** y la **escritura o presentación de resultados**.  
+Los algoritmos lineales emplean las operaciones básicas de control secuencial, como la **asignación de valores**, la **lectura de datos de entrada** y la **escritura o presentación de resultados** [2].  
 Este tipo de estructura es ideal para resolver problemas donde el proceso no requiere condiciones ni repeticiones, sino una ejecución paso a paso.  
 
 ---
