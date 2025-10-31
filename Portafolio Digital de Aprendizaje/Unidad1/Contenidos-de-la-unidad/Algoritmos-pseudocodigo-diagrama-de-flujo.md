@@ -89,5 +89,5 @@ Tabla 1: Prueba de escritorio del algoritmo "triangulo".
 | 22 | 15 | (22 × 15) / 2 | 165 |
 
 
-[⬅️ Volver a Contenidos de la Unidad](../../Introduccion/Contenidos.md)
+[⬅️ Volver a Contenidos de la Unidad](../../Entrada/Contenidos.md)
 
