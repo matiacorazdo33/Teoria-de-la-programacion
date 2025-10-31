@@ -262,7 +262,7 @@ Estos ejercicios permitieron aplicar estructuras secuenciales y reforzar la comp
 
 ---
 
-[⬅️ Volver a Contenidos de la Unidad](../../Introduccion/Contenidos.md)
+[⬅️ Volver a Contenidos de la Unidad](../../Entrada/Contenidos.md)
 
 
 
