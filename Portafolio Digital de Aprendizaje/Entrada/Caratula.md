@@ -45,7 +45,4 @@
 
 ---
 
-<p align="center">
-  
 [Ir a contenidos](Contenidos.md)
-</p>
