@@ -61,14 +61,34 @@ Entre las herramientas para programar en pseudocódigo encontramos a **PSeInt**,
 📋 **Ejemplo:**  
 >A continuación se observa el mismo algoritmo antes mencionado, sin embargo esta vez esta escrito en pseudocódigo en la plataforma ´PseInt, contando con las palabras clave e instrucciones apropiadas para hayar la solución al mismo problema.
 
-
-
+```
+Algoritmo triangulo
+	//Variables
+	Definir base, altura Como Entero;
+	//Entrada
+	Escribir "Ingrese base";
+	Leer base;
+	Escribir "Ingrese altura";
+	Leer altura;
+	//Proceso 
+	area = (base * altura) / 2;
+	//Salida
+	Escribir "El área del triangulo es: ", area;
+	
+FinAlgoritmo
+```
 
 >Una vez ejecutado el programa, se abrirá una ventana la cual llevará a cabo las funciones para las que hayamos programado el algorítmo.
 
-Imagen 3: Ejecución del algoritmo "triangulo".
-
-<img width="564" height="373" alt="image" src="https://github.com/user-attachments/assets/fbb06818-4eb5-4904-a579-e98c064fc533" />
+```
+*** Ejecución Iniciada. ***
+Ingrese base
+> 10
+Ingrese altura
+> 8
+El área del triangulo es: 40
+*** Ejecución Finalizada. ***
+```
 
 ---
 
@@ -78,7 +98,7 @@ El **diagrama de flujo** es una representación gráfica del algoritmo, donde ca
 Esta herramienta es fundamental en la etapa de diseño, ya que permite visualizar cómo fluye la información y cómo se ejecutan las instrucciones paso a paso.  
 Junto con el pseudocódigo, facilita la comprensión del funcionamiento lógico de un programa antes de implementarlo en código [4].  
 
-Imagen 4: Simbolos de un diagrama de flujo.
+Imagen 1: Simbolos de un diagrama de flujo.
 
 <img width="482" height="454" alt="image" src="https://github.com/user-attachments/assets/2a0f6af1-1223-4d1e-93a8-60c5d18213bc" />
 
@@ -88,8 +108,10 @@ Imagen 4: Simbolos de un diagrama de flujo.
 📋 **Ejemplo:**  
 >La siguiente imagen muestra el un ejemplo del mismo algoritmo de los problemas anteriores, representado en forma de diagrama de flujo haciendo uso de los simbolos y formas caracteristicas del mismo.
 
-imagen 5: Algoritmo "triangulo" en diagrama de flujo.
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b15e83c-adac-4b23-af34-cda50605cddf" />
+imagen 2: Algoritmo "triangulo" en diagrama de flujo.
+
+<img width="488" height="915" alt="image" src="https://github.com/user-attachments/assets/62a8616d-9fad-41be-b6c5-6950231a1548" />
+
 
 ---
 
