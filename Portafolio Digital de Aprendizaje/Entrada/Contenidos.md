@@ -34,8 +34,8 @@
 - [Estructuras condicionales](../Unidad2/Estructuras-condicionales.md)
 - [Estructuras repetitivas](../Unidad2/Estructuras-repetitivas.md)
 - [Ejercisio combinando estructura condicional y repetitiva](../Unidad2/Ejercicio-combinando-estructura-condicional-y-repetitiva.md)
-- [Principales dificultades en la aplicación de los contenidos]
-- [Reflexión crítica de los aprendizajes de la unidad]
+- [Principales dificultades en la aplicación de los contenidos](../Unidad2/Principales-dificultades.md)
+- [Reflexión crítica de los aprendizajes de la unidad](../Unidad2/Reflexion-critica.md)
 
 ### 📝 Tareas Entregadas
 - [Herramientas de algoritmos (pseudocódigo y diagramas de flujo).]
