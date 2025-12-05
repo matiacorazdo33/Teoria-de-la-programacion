@@ -31,7 +31,7 @@
 
 ### 📚 Contenidos de la Unidad 2
 
-- [Estructuras condicionales]
+- [Estructuras condicionales](../Unidad2/Estructuras-condicionales.md)
 - [Estructuras repetitivas]
 - [Ejercisio combinando estructura condicional y repetitiva]
 - [Principales dificultades en la aplicación de los contenidos]
