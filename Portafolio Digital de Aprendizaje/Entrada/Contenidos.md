@@ -38,10 +38,10 @@
 - [Reflexión crítica de los aprendizajes de la unidad](../Unidad2/Reflexion-critica.md)
 
 ### 📝 Tareas Entregadas
-- [Herramientas de algoritmos (pseudocódigo y diagramas de flujo).]
-- [Instalación de lenguajes deprogramación]
-- [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]
-- [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]
+- [Aplicacion de estructuras condicionales en la resolucion de problemas](https://drive.google.com/file/d/1e_M5L2CMBKzsvArBmodqZsw9KKZdjBNC/view?usp=sharing)
+- [Aplicacion de estructuras repetitivas en la resolucion de problemas](https://drive.google.com/file/d/160NDQpcfV3EKVGuSzS2lu1xPYfp_SX5q/view?usp=sharing)
+- [Diferencias entre los tipos de estructuras condicionales](https://drive.google.com/file/d/1HJ6I0aXdhgQAYN1EyATFyHydBjUxj4h3/view?usp=sharing)
+- [Cuadro comparativo entre las estructuras repetitivas]
 ---
 
 ### 🏗️ Unidad3: Programación Modular y Estructuras de Datos Estáticas
