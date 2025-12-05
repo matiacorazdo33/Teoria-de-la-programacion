@@ -27,7 +27,21 @@
 
 
 ### 🔄 Unidad2: Estructuras Algorítmicas de Control
-*   Estructuras algoritmicas condicionalesy repetitivas 
+*   Estructuras algoritmicas condicionalesy repetitivas
+
+### 📚 Contenidos de la Unidad 2
+
+- [Estructuras condicionales]
+- [Estructuras repetitivas]
+- [Ejercisio combinando estructura condicional y repetitiva]
+- [Principales dificultades en la aplicación de los contenidos]
+- [Reflexión crítica de los aprendizajes de la unidad]
+
+### 📝 Tareas Entregadas
+- [Herramientas de algoritmos (pseudocódigo y diagramas de flujo).]
+- [Instalación de lenguajes deprogramación]
+- [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]
+- [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]
 ---
 
 ### 🏗️ Unidad3: Programación Modular y Estructuras de Datos Estáticas
