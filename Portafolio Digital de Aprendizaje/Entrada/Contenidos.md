@@ -41,7 +41,7 @@
 - [Aplicacion de estructuras condicionales en la resolucion de problemas](https://drive.google.com/file/d/1e_M5L2CMBKzsvArBmodqZsw9KKZdjBNC/view?usp=sharing)
 - [Aplicacion de estructuras repetitivas en la resolucion de problemas](https://drive.google.com/file/d/160NDQpcfV3EKVGuSzS2lu1xPYfp_SX5q/view?usp=sharing)
 - [Diferencias entre los tipos de estructuras condicionales](https://drive.google.com/file/d/1HJ6I0aXdhgQAYN1EyATFyHydBjUxj4h3/view?usp=sharing)
-- [Cuadro comparativo entre las estructuras repetitivas]
+- [Cuadro comparativo entre las estructuras repetitivas](https://drive.google.com/file/d/1uYgFVrPbz7mF3p_lYymfzG3BGwiUraQl/view?usp=sharing)
 ---
 
 ### 🏗️ Unidad3: Programación Modular y Estructuras de Datos Estáticas
@@ -58,6 +58,7 @@
 * [3] PSeInt, “Caracterıˊsticas,” [En línea]. Disponible en:
 [https://pseint.sourceforge.net/index.php?page=features.php](https://pseint.sourceforge.net/index.php?page=features.php)
 * [4]	F. Yaneth, P. M. Carlos, I. Torres, L. Piedad, y C. Sosa, «Elaboración de diagramas de flujo básicos», 2023, doi: 10.16925/gcgp.82. Disponible en: https://repository.ucc.edu.co/items/2172ade4-eaff-4934-bc18-7d3625d8ce6f
+* D. Pelta, "Programación de Ordenadores," Presentación/Apuntes de clase, Depto de Ciencias de la Computación e I.A., Universidad de Granada.
 
 ---
 
