@@ -5,7 +5,7 @@
 ## 🧠 Algoritmos  
 
 Un **algoritmo** es un conjunto de pasos ordenados de forma lógica y finita, diseñados para resolver un problema o cumplir una tarea específica.  
-Cada paso debe estar claramente definido, de modo que, al usar los mismos datos de entrada, siempre se obtengan los mismos resultados [1].  
+Cada paso debe estar claramente definido, de modo que, al usar los mismos datos de entrada, siempre se obtengan los mismos resultados.  
 Todo algoritmo cuenta con tres elementos esenciales:  
 
 - **Entradas:** los datos o información inicial necesarios.  
@@ -53,7 +53,7 @@ El **pseudocódigo** es una herramienta utilizada para expresar de manera clara 
 Sirve como puente entre el lenguaje natural y los lenguajes de programación, ya que permite escribir instrucciones de forma comprensible, pero siguiendo una lógica cercana a la que se usa al programar.  
 Su objetivo es ayudar a planificar la solución antes de escribir el código real, facilitando la comprensión del proceso.
 
-Entre las herramientas para programar en pseudocódigo encontramos a **PSeInt**, el cual es un instrumento de software orientada a ayudar a quienes están dando sus primeros pasos en lo que se refiere a la programación. Su principal atractivo es la ventaja que representa a aquellos que están iniciando en su aprendizaje de la programación, dicha ventaja es gracias a que utiliza un lenguaje en pseudocódigo bastante simple y en español, lo que facilita al usuario comprender la lógica detrás de la elaboración de algoritmos[3].
+Entre las herramientas para programar en pseudocódigo encontramos a **PSeInt**, el cual es un instrumento de software orientada a ayudar a quienes están dando sus primeros pasos en lo que se refiere a la programación. Su principal atractivo es la ventaja que representa a aquellos que están iniciando en su aprendizaje de la programación, dicha ventaja es gracias a que utiliza un lenguaje en pseudocódigo bastante simple y en español, lo que facilita al usuario comprender la lógica detrás de la elaboración de algoritmos.
 
 
 
@@ -96,7 +96,7 @@ El área del triangulo es: 40
 
 El **diagrama de flujo** es una representación gráfica del algoritmo, donde cada acción o decisión se muestra mediante símbolos conectados por flechas que indican el orden de ejecución.  
 Esta herramienta es fundamental en la etapa de diseño, ya que permite visualizar cómo fluye la información y cómo se ejecutan las instrucciones paso a paso.  
-Junto con el pseudocódigo, facilita la comprensión del funcionamiento lógico de un programa antes de implementarlo en código [4].  
+Junto con el pseudocódigo, facilita la comprensión del funcionamiento lógico de un programa antes de implementarlo en código.  
 
 Imagen 1: Simbolos de un diagrama de flujo.
 
