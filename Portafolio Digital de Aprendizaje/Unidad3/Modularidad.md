@@ -138,7 +138,22 @@ int main(){
 valor final: 7
 ```
 
+📝 **Nota sobre punteros "*" y operador "&":**
+- Un puntero se declara usando * y sirve para almacenar la dirección de memoria de una variable.
 
+  Ejemplo: int *p;
+
+- El operador & se utiliza para obtener la dirección de memoria de una variable.
+
+  Ejemplo: &numero obtiene la dirección de numero.
+
+- Al llamar a la función, se pasa la dirección usando &:
+
+  incremento(&num);
+
+- Dentro de la función, el operador * se usa para acceder o modificar el valor almacenado en esa dirección
+
+  *x = *x + 2;
 
 
 ---
