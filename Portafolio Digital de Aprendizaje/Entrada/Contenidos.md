@@ -52,7 +52,7 @@
 - [Modularidad](../Unidad3/Modularidad.md)
 - [Arreglos](../Unidad3/Arreglos.md)
 - [Principales dificultades en la aplicacion de los contenidos](../Unidad3/DificultadesEnAplicacion.md)
-- [Reflexión crítica de los aprendizajes de la unidad](../Unidad2/Reflexion-critica.md)
+- [Reflexión crítica de los aprendizajes de la unidad](../Unidad3/ReflexionCritica.md)
 
 ### 📝 Tareas Entregadas
 - [Aplicacion de estructuras condicionales en la resolucion de problemas](https://drive.google.com/file/d/1e_M5L2CMBKzsvArBmodqZsw9KKZdjBNC/view?usp=sharing)
