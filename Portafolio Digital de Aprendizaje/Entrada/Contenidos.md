@@ -50,7 +50,7 @@
 ### 📚 Contenidos de la Unidad 3
 
 - [Modularidad](../Unidad3/Modularidad.md)
-- [Arreglos](../Unidad2/Estructuras-repetitivas.md)
+- [Arreglos](../Unidad3/Arreglos.md)
 - [Principales dificultades en la aplicacion de los contenidos](../Unidad2/Ejercicio-combinando-estructura-condicional-y-repetitiva.md)
 - [Reflexión crítica de los aprendizajes de la unidad](../Unidad2/Reflexion-critica.md)
 
