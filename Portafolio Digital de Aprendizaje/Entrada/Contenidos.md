@@ -6,7 +6,7 @@
 
 ## ✨ [Carátula](../Entrada/Caratula.md)
 
-### [🧠 Unidad1:](../Unidad1) Fundamentos de Algoritmos y Programas
+### 🧠 Unidad 1: Fundamentos de Algoritmos y Programas
 * Conceptos fundamentales, Elementos Básicos y Herramientas de programación.
 
 ### 📚 Contenidos de la Unidad 1
@@ -26,7 +26,7 @@
 ---
 
 
-### 🔄 Unidad2: Estructuras Algorítmicas de Control
+### 🔄 Unidad 2: Estructuras Algorítmicas de Control
 *   Estructuras algoritmicas condicionalesy repetitivas
 
 ### 📚 Contenidos de la Unidad 2
@@ -45,7 +45,21 @@
 ---
 
 ### 🏗️ Unidad3: Programación Modular y Estructuras de Datos Estáticas
-* Programación Modular y Estructuras de Datos Estáticas Básicas 
+* Programación Modular y Estructuras de Datos Estáticas Básicas
+
+### 📚 Contenidos de la Unidad 3
+
+- [Modularidad](../Unidad2/Estructuras-condicionales.md)
+- [Arreglos](../Unidad2/Estructuras-repetitivas.md)
+- [Principales dificultades en la aplicacion de los contenidos](../Unidad2/Ejercicio-combinando-estructura-condicional-y-repetitiva.md)
+- [Reflexión crítica de los aprendizajes de la unidad](../Unidad2/Reflexion-critica.md)
+
+### 📝 Tareas Entregadas
+- [Aplicacion de estructuras condicionales en la resolucion de problemas](https://drive.google.com/file/d/1e_M5L2CMBKzsvArBmodqZsw9KKZdjBNC/view?usp=sharing)
+- [Aplicacion de estructuras repetitivas en la resolucion de problemas](https://drive.google.com/file/d/160NDQpcfV3EKVGuSzS2lu1xPYfp_SX5q/view?usp=sharing)
+- [Diferencias entre los tipos de estructuras condicionales](https://drive.google.com/file/d/1HJ6I0aXdhgQAYN1EyATFyHydBjUxj4h3/view?usp=sharing)
+- [Cuadro comparativo entre las estructuras repetitivas](https://drive.google.com/file/d/1uYgFVrPbz7mF3p_lYymfzG3BGwiUraQl/view?usp=sharing)
+
 ---
 
 ### 💡 Conclusiones
