@@ -1,162 +1,145 @@
-# 🔁 Estructuras Repetitivas
+# 🧩 Estructuras Repetitivas
 
 La modularidad es un principio de programación que consiste en dividir un programa en partes más pequeñas e independientes, llamadas módulos o funciones, donde cada una cumple una tarea específica.
-
 Este enfoque permite que el código sea más ordenado, fácil de entender, mantener y reutilizar, ya que cada módulo puede desarrollarse, probarse y modificarse sin afectar directamente al resto del programa.
 
 En lenguajes como C, la modularidad se aplica principalmente mediante el uso de funciones, que ayudan a estructurar mejor el programa y reducir la repetición de código.
+Las funciones en C pueden recibir datos a través de parámetros, ya sea por valor o por referencia.
 
 ---
 
-## 🔹 Ciclo `while` — *Bucle de condición previa*
 
-El ciclo **while** evalúa una condición **antes** de ejecutar las instrucciones del bucle. Mientras la condición sea verdadera, el bloque se repetirá.
+## 🔻 Uso de funciones en C.
 
-➡️ **Tipo:** Bucle controlado por condición  
-➡️ **Se usa cuando:** No sabes cuántas veces se repetirá; depende de una condición.
+Una función es un bloque de código que realiza una tarea específica y puede ser reutilizado dentro de un programa.
+
+Una función en C se compone de:
+
+- **Tipo de retorno:** Indica el tipo de dato que devuelve la función (int, float, void, etc.).
+
+- **Nombre de la función:** Identificador que se utiliza para llamarla.
+
+- **Parámetros:** Datos que recibe la función (pueden ser ninguno).
+
+- **Cuerpo:** Conjunto de instrucciones que ejecuta la función.
+
+➡️ Tipos de funciones:
+
+- Funciones con retorno (devuelven un valor).
+
+- Funciones sin retorno (void).
+
+- Funciones con parámetros.
+
+- Funciones sin parámetros.
+
+ 
+
+
+### 📋 Sintaxis general de una funcion en C:
+```
+tipo_de_retorno nombre_funcion(tipo_parametro parametro){
+    // instrucciones
+    return valor; // El valor que se retorna, solo si no es void
+}
+
+```
+
+---
+
+
+## 🔹 Paso de parametros por valor
+
+En el paso por valor, la función recibe una copia del valor de la variable original.
+Los cambios realizados dentro de la función no afectan a la variable original.
+
+➡️ **Tipo:** Paso de parámetros por valor
+
+➡️ **Se usa cuando:** No se necesita modificar la variable original.
+
+
+
 
 📋 **Ejemplo:**  
-> El siguiente elgoritmo pide un número N al usuario y muestra los números del 1 al N.
-
-### 💡 Algoritmo en Diagrama de Flujo  
-Imagen 10: Diagrama de "Algoritmo bucle" 
-
-
-<img width="501" height="919" alt="image" src="https://github.com/user-attachments/assets/0f723528-c564-4beb-8717-2dae04a79392" />
-
+> El siguiente programa muestra cómo una función recibe un valor y lo modifica internamente sin afectar la variable original.
 
 ### 💻 Algoritmo en C
 ```
-#include<stdio.h>
-int main(){
-    int n, i=1;
-    printf("Ingrese un numero: ");
-    scanf("%i", &n);
+#include <stdio.h>
 
-    while(i<=n){
-        printf("%i\n", i);
-        i= i + 1;
-    }
+void suma(int x){
+    x = x + 2;
+    printf("valor dentro de la funcion: %i\n", x);
+
+}
+
+int main(){
+    int numero = 5;
+
+    suma(numero);
+    printf("valor fuera de la funcion: %i\n", numero);
 
     return 0;
-
 }
 ```
 
 ▶️ **Ejecución en C**
 
 ```
-[matias@cachyos C]$ gcc ejercisioBucle.c -o ejercisioBucle
-[matias@cachyos C]$ ./ejercisioBucle
-Ingrese un numero: 4
-1
-2
-3
-4
+[matias@cachyos C]$ gcc parametrosPorValor.c -o parametrosPorValor
+[matias@cachyos C]$ ./parametrosPorValor
+valor dentro de la funcion: 7
+valor fuera de la funcion: 5
 ```
 
 
 ---
 
-## 🔸 Ciclo `do…while` — *Bucle de condición posterior *
+## 🔸 Paso de parámetros por referencia
 
-El ciclo **do…while** ejecuta las instrucciones **al menos una vez** antes de preguntar si debe repetirse. Primero ejecuta, luego evalúa.
+En el paso por referencia, la función recibe la dirección de memoria de la variable usando punteros.
+Los cambios realizados dentro de la función sí afectan a la variable original.
 
-➡️ **Tipo:** Bucle controlado por condición  
-➡️ **Se usa cuando:** Necesitas que el bloque se ejecute mínimo una vez (por ejemplo, validar entradas).
+➡️ **Tipo:** Paso de parámetros por referencia
 
-📋 **Ejemplo:**  
-> En el siguiente ejemplo se observa el mismo problema anterior, pero esta vez usando el bucle **do...while**.
+➡️ **Se usa cuando:** Es necesario modificar la variable original desde la función.
 
-### 💡 Algoritmo en Diagrama de Flujo  
-Imagen 11: Diagrama de "Algoritmo bucle2" 
 
-<img width="660" height="921" alt="image" src="https://github.com/user-attachments/assets/b913e177-feb6-4c01-9e5f-1f8b5f5921c6" />
+
+📋 Ejemplo:
+
+En el siguiente ejemplo, la función modifica directamente el valor de la variable usando un puntero.
 
 
 ### 💻 Algoritmo en C
 ```
-#include<stdio.h>
+#include <stdio.h>
+
+void incremento(int *x){
+    *x = *x + 2;
+
+}
+
 int main(){
-    int n, i=1;
-    printf("Ingrese un numero: ");
-    scanf("%i", &n);
+    int numero = 5;
 
-    do{
-        printf("%i\n", i);
-        i++;
-
-    }while(i <= n);
+    incremento(&numero);
+    printf("valor final: %i\n", numero);
 
     return 0;
-
 }
 ```
 
 ▶️ **Ejecución en C**
 
 ```
-[matias@cachyos C]$ gcc ejercisioBucle.c -o ejercisioBucle
-[matias@cachyos C]$ ./ejercisioBucle
-Ingrese un numero: 4
-1
-2
-3
-4
+[matias@cachyos C]$ gcc parametrosPorReferencia.c -o parametrosPorReferencia
+[matias@cachyos C]$ ./parametrosPorReferencia
+valor final: 7
 ```
 
 
----
 
-## 🔻 Ciclo `for` — *Bucle controlado por contador*
-
-El ciclo **for** ejecuta un bloque un número **determinado** de veces. Es ideal cuando conoces cuántas repeticiones necesitas y quieres controlar:
-
-- Valor inicial  
-- Condición de fin  
-- Incremento o decremento  
-
-➡️ **Tipo:** Bucle controlado por contador  
-➡️ **Se usa cuando:** El número de iteraciones está definido desde el inicio.
-
-📋 **Ejemplo:**  
-> En el siguiente ejemplo se observa el mismo problema anterior, pero esta vez usando el bucle **for**.
-
-### 💡 Algoritmo en Diagrama de Flujo  
-Imagen 12: Diagrama de "Algoritmo bucle3" 
-
-<img width="765" height="910" alt="image" src="https://github.com/user-attachments/assets/e20104c1-a13c-4688-ad13-1fb0775218c9" />
-
-
-### 💻 Algoritmo en C
-```
-#include<stdio.h>
-int main(){
-    int n, i;
-    printf("Ingrese un numero: ");
-    scanf("%i", &n);
-
-    for (i=1; i<=n; i++){
-        printf("%i\n", i);
-
-    }
-
-    return 0;
-
-}
-```
-
-▶️ **Ejecución en C**
-
-```
-[matias@cachyos C]$ gcc ejercisioBucle.c -o ejercisioBucle
-[matias@cachyos C]$ ./ejercisioBucle
-Ingrese un numero: 4
-1
-2
-3
-4
-```
 
 ---
 
