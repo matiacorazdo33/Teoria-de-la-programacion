@@ -55,15 +55,20 @@
 - [Reflexión crítica de los aprendizajes de la unidad](../Unidad3/ReflexionCritica.md)
 
 ### 📝 Tareas Entregadas
-- [Aplicacion de estructuras condicionales en la resolucion de problemas](https://drive.google.com/file/d/1e_M5L2CMBKzsvArBmodqZsw9KKZdjBNC/view?usp=sharing)
-- [Aplicacion de estructuras repetitivas en la resolucion de problemas](https://drive.google.com/file/d/160NDQpcfV3EKVGuSzS2lu1xPYfp_SX5q/view?usp=sharing)
-- [Diferencias entre los tipos de estructuras condicionales](https://drive.google.com/file/d/1HJ6I0aXdhgQAYN1EyATFyHydBjUxj4h3/view?usp=sharing)
-- [Cuadro comparativo entre las estructuras repetitivas](https://drive.google.com/file/d/1uYgFVrPbz7mF3p_lYymfzG3BGwiUraQl/view?usp=sharing)
+- [Curso Fundamentos de Python 1. Computación UNL](https://drive.google.com/file/d/1HYNNdONAvF5T4wUhWohtwK2oTGZC0ebG/view?usp=sharing)
+- [Proyecto academico integrador]
+- [Construcción de funciones y procedimientos en un lenguaje de programación](https://drive.google.com/file/d/1skuMGjqG6f8I3MMLdRMfWnCTHXXcqIEo/view?usp=sharing)
 
 ---
 
 ### 💡 Conclusiones
-* Síntesis del aprendizaje adquirido 
+A lo largo de la asignatura Teoría de la Programación, adquirí una comprensión progresiva de los fundamentos de la programación, comenzando por la construcción de algoritmos y el uso del pseudocódigo, lo que fortaleció mi pensamiento lógico y mi capacidad para planificar soluciones antes de escribir código.
+
+El estudio de las estructuras condicionales y repetitivas me permitió controlar el flujo de ejecución de los programas, aprender a tomar decisiones y repetir procesos de forma ordenada, entendiendo la importancia de elegir correctamente cada estructura para evitar errores y mejorar la eficiencia del código.
+
+Finalmente, la programación modular y el uso de arreglos me ayudaron a organizar programas más complejos mediante funciones y estructuras de datos, mejorando la claridad, reutilización y mantenimiento del código. Aunque estos temas presentaron mayores dificultades, su aplicación práctica contribuyó significativamente a desarrollar una forma de programar más analítica, ordenada y eficiente.
+
+En conjunto, los contenidos abordados sentaron una base sólida para continuar mi formación en programación y enfrentar problemas de mayor complejidad con mayor seguridad y criterio.
 ---
 
 ### 📖 Referencias
