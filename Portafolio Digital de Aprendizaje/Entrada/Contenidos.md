@@ -56,7 +56,7 @@
 
 ### 📝 Tareas Entregadas
 - [Curso Fundamentos de Python 1. Computación UNL](https://drive.google.com/file/d/1HYNNdONAvF5T4wUhWohtwK2oTGZC0ebG/view?usp=sharing)
-- [APE 2. Implementación de funciones utilizando el paso de parámetros por valor y por referencia Archivo](../Unidad3/APE2.md)
+- [Implementación de funciones utilizando el paso de parámetros por valor y por referencia Archivo](../Unidad3/APE2.md)
 - [Construcción de funciones y procedimientos en un lenguaje de programación](https://drive.google.com/file/d/1skuMGjqG6f8I3MMLdRMfWnCTHXXcqIEo/view?usp=sharing)
 
 ---
