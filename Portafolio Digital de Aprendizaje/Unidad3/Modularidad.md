@@ -6,6 +6,16 @@ Este enfoque permite que el código sea más ordenado, fácil de entender, mante
 En lenguajes como C, la modularidad se aplica principalmente mediante el uso de funciones, que ayudan a estructurar mejor el programa y reducir la repetición de código.
 Las funciones en C pueden recibir datos a través de parámetros, ya sea por valor o por referencia.
 
+
+
+<p align="center">
+  <img width="600" height="424.72" alt="image" src="https://github.com/user-attachments/assets/9a9a9d1d-c53a-4896-bdec-e89551914c08" />
+</p>
+
+
+
+
+
 ---
 
 
